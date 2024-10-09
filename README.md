@@ -28,7 +28,7 @@ Saiba mais sobre nossa missão, valores e como surgiu o ConectPet.
 ##  Tecnologias e Ferramentas:
 * **React**: Biblioteca JavaScript para construir interfaces de usuário;
 * **CSS**: Para estilização básica da interface gráfica;
-* **Bootstrap**: Framework CSS opcional para estilização e responsividade;
+* **Bootstrap**: Framework CSS para estilização e responsividade;
 * **VS Code:** Ambiente de desenvolvimento com suporte para extensões úteis em React.
 
 
