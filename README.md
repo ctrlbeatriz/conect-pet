@@ -35,7 +35,7 @@ Saiba mais sobre nossa missão, valores e como surgiu o ConectPet.
 
 ## 📑 Requisitos Básicos de Funcionalidade:
 * **1  API**
-* **2 Diretrivas | ngIf & ngFor**
+* **2 Diretivas | ngIf & ngFor**
 * **2 Pipes | personalizado & estrutural**
 * **1 Biblioteca HttpClient**
 * **3 rotas de transição**
