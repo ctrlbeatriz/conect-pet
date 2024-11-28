@@ -1,12 +1,12 @@
-# # Conect Pet | Conectando corações para transformar vidas!🐾
-Uma plataforma completa para adoção, voluntariado e doações. [link vercel]
+# Conect Pet - Mobile| Conectando corações para transformar vidas!🐾
+Sua plataforma completa para adoção, voluntariado e doações.
 
-##  Sobre o ConectPet:
+## ✨ Sobre o ConectPet:
 
 Somos uma iniciativa inovadora que visa reduzir o abandono de animais errantes e promover a adoção responsável. Nossa plataforma conecta apaixonados por animais, ONGs e protetores, oferecendo um ambiente seguro e fácil de usar para encontrar o companheiro perfeito. 
 
 
-## **Funcionalidades**
+## 🧩 Funcionalidades:
 
 * **`Adote com Amor:`**
 Encontre o animal ideal para sua família, com informações detalhadas sobre cada um, como raça, idade, temperamento e necessidades especiais.
@@ -17,31 +17,36 @@ Contribua para o bem-estar dos animais doando para ONGs parceiras. Toda ajuda é
 * **`Nos Conheça:`**
 Saiba mais sobre nossa missão, valores e como surgiu o ConectPet.
 
-## Como Usar
+## 📱 Como Usar:
 
 1. **Crie sua conta:** Cadastre-se gratuitamente e personalize seu perfil.
 2. **Explore as abas:** Navegue pelas abas **`Adote com Amor`**, **`Voluntários`**, **`Doações`** e **`Nos Conheça`** para descobrir todas as funcionalidades da plataforma.
-3. **Filtre sua busca:** Utilize os filtros disponíveis para encontrar o animal ideal ou a oportunidade de voluntariado perfeita para você.
+3. **Filtro de busca:** Utilize os filtros disponíveis para encontrar o animal ideal ou a oportunidade de voluntariado perfeita para você.
 4. **Entre em contato:** Entre em contato com as ONGs ou protetores para agendar uma visita e conhecer o animal que você se interessou.
 
    
-##  Tecnologias e Ferramentas:
-* **React**: Biblioteca JavaScript para construir interfaces de usuário;
-* **CSS**: Para estilização básica da interface gráfica;
-* **Bootstrap**: Framework CSS para estilização e responsividade;
-* **VS Code:** Ambiente de desenvolvimento com suporte para extensões úteis em React.
+## 👾 Tecnologias e Ferramentas:
+* **Ionic**
+* **Angular** 
+* **SCSS**
+* **Bootstrap / Tailwind**
+* **VS Code**
 
 
-##  Contribuição
-* **Dar feedback:** Compartilhe suas ideias e sugestões para melhorar a plataforma.
-* **Redes sociais:** Divulgue as publicações do ConectPet em suas redes e incentive seus amigos a fazerem o mesmo.
+## 📑 Requisitos Básicos de Funcionalidade:
+* **1  API**
+* **2 Diretrivas | ngIf & ngFor**
+* **2 Pipes | personalizado & estrutural**
+* **1 Biblioteca HttpClient**
+* **3 rotas de transição**
 
-## Equipe | ConectPet
+
+
+ 
+## 👥 Equipe | ConectPet Mobile 
 - Ana Beatriz Alves
 - Alice Mucinni
 - Flávia Sousa
 - Geovana Beltrão
 - Germária Lins
 - Samuel Barbosa
-- Valdir Pimentel
-- Wyllamys Paiva
